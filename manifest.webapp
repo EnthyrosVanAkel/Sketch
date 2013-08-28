@@ -1,0 +1,9 @@
+{
+	"version": "0.1",
+	"name": "sketch",
+	"description": "paleta de dibujo",
+	"launch_path": "/index.html",
+	"icons": {
+		"128": "icon.png"
+	}
+	}
